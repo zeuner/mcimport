@@ -5,6 +5,7 @@
 1 4	xdecor:hard_clay
 1 5	default:stone				// TODO: Stone type
 1 6	xdecor:stone_tile
+1 7	default:stone
 
 2	default:dirt_with_grass
 3	default:dirt
@@ -423,6 +424,8 @@
 82	default:clay
 83	default:papyrus
 
+84 1	default:stone
+
 85	default:fence_wood
 
 86	crops:pumpkin				// rotates randomly
@@ -433,6 +436,10 @@
 	89	nether:glowstone
 	90	nether:portal
 #endif
+
+91 0	default:stone
+91 1	default:stone
+91 2	default:stone
 
 93 0	mesecons_delayer:delayer_off_1 3
 93 1	mesecons_delayer:delayer_off_1 0
@@ -467,6 +474,9 @@
 94 13	mesecons_delayer:delayer_on_4 0
 94 14	mesecons_delayer:delayer_on_4 1
 94 15	mesecons_delayer:delayer_on_4 2
+
+95 4	default:stone
+95 15	default:stone
 
 96 0	doors:trapdoor 2
 96 1	doors:trapdoor 0
@@ -678,10 +688,14 @@
 
 137	mesecons_commandblock:commandblock_off	// FIXME: formspec
 
+138 0	default:stone
+
 139 1	walls:mossycobble
 139	walls:cobble
 
 140	flowerpot:empty		// code will plant right flower
+
+141 0	default:stone
 
 143 0	mesecons_button:button_off 8
 143 1	mesecons_button:button_off 3
@@ -689,6 +703,10 @@
 143 3	mesecons_button:button_off 0
 143 4	mesecons_button:button_off 2
 143 5	mesecons_button:button_off 10
+
+144 1	default:stone
+
+145 0	default:stone
 
 146 2	default:chest 2				// Trapped chest
 146 3	default:chest 0
@@ -823,8 +841,13 @@
 174	default:ice					// approx
 
 175 0	flowers:sunflower
+175 1	default:stone
 
 175 2	default:junglegrass
+175 3	default:stone
+175 4	default:stone
+175 5	default:stone
+175 8	default:stone
 
 // 178 is an inverted daylight sensor, cannot convert!
 
