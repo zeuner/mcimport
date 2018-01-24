@@ -892,10 +892,10 @@
 324 1,5	doors:door_wood_b_1 3
 324 2,6	doors:door_wood_b_1 0
 324 3,7	doors:door_wood_b_1 1
-324 8	doors:door_wood_t_1
-324 9	doors:door_wood_t_1
-324 10	doors:door_wood_t_1
-324 11	doors:door_wood_t_1
+324 8	doors:door_wood
+324 9	doors:door_wood
+324 10	doors:door_wood
+324 11	doors:door_wood
 
 // Below here are non-MC blocks. We need to put these blocks in the
 // table to make translation a bit easier
@@ -953,10 +953,10 @@
 964 14	doors:door_wood_b_1 2
 964 15	doors:door_wood_b_1 3
 
-965 0	doors:door_wood_t_1 1
-965 1	doors:door_wood_t_1 2
-965 2	doors:door_wood_t_1 3
-965 3	doors:door_wood_t_1 0
+965 0	doors:door_wood 1
+965 1	doors:door_wood 2
+965 2	doors:door_wood 3
+965 3	doors:door_wood 0
 965 4	doors:door_wood_t_2 2
 965 5	doors:door_wood_t_2 3
 965 6	doors:door_wood_t_2 0
@@ -965,10 +965,10 @@
 965 9	doors:door_wood_t_2 2
 965 10	doors:door_wood_t_2 3
 965 11	doors:door_wood_t_2 0
-965 12	doors:door_wood_t_1 0
-965 13	doors:door_wood_t_1 1
-965 14	doors:door_wood_t_1 2
-965 15	doors:door_wood_t_1 3
+965 12	doors:door_wood 0
+965 13	doors:door_wood 1
+965 14	doors:door_wood 2
+965 15	doors:door_wood 3
 
 966 0	doors:door_steel_b_1 1
 966 1	doors:door_steel_b_1 2
